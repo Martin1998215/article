@@ -10,14 +10,11 @@ st.write("---")
 st.write("### Fatest way to summarize long articles.")
 st.write(
     """
-    **MySummary App Helps you be productive by:**
-    - Helping you read long articles in summary form.
-    - Generate Headlines for your post.
-    - Summarize school or work Notes and Bible chapters for easy and faster reading.
+    - Summarize news articles, school or work Notes, Bible or Book chapters for easy and faster reading.
     
     """)
 
-st.warning("**To do it, Simply paste the article, notes, bible chapter etc you want to summarize in our text bar below. And wait a while for the AI model to process the article. thats it!**")
+st.warning("**Simply paste whatever you want to summarize in our text bar below. And wait a while for the AI model to process the article. thats it!**")
 
 st.write("---")       
 
