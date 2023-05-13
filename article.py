@@ -15,8 +15,7 @@ st.write(
     """)
 
 st.warning("**Simply paste whatever you want to summarize in our text bar below. And wait a while for the AI model to process the article. thats it!**")
-
-st.write("---")       
+    
 
 article= st.text_area("Paste Article Here", height=200)
 
